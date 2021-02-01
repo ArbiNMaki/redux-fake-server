@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "nama": "Kalista",
+            "alamat": "Malang",
+            "umur": 24,
+            "hp": "082132290037"
+          },
+          {
+            "id": 2,
+            "nama": "Katsuki",
+            "alamat": "Kanagawa",
+            "umur": 24,
+            "hp": "082132290037"
+          },
+          {
+            "id": 3,
+            "nama": "Maki",
+            "alamat": "Tokyo",
+            "umur": 24,
+            "hp": "082132290037"
+          }
+    ]
+}
